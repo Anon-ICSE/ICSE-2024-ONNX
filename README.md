@@ -6,7 +6,7 @@ The artifacts for this paper are placed into two main folders:
 
 The following tables repeated in the `Theme1` and `Theme2` folders for your convience.
 
-We use the external [HFTorrent dataset](https://zenodo.org/record/7556031). 
+We use the external [HFTorrent dataset](https://zenodo.org/record/7556031) version 1.0.0. 
 
 ## Theme 1 - Index
 |Data|Data Description|
