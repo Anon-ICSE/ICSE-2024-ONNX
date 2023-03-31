@@ -5,6 +5,9 @@ The artifacts for this paper are placed into two main folders:
 
 
 The following tables repeated in the `Theme1` and `Theme2` folders for your convience.
+
+We use the external [HFTorrent dataset](https://zenodo.org/record/7556031). 
+
 ## Theme 1 - Index
 |Data|Data Description|
 |----|-----------------|
@@ -25,6 +28,7 @@ The following tables repeated in the `Theme1` and `Theme2` folders for your conv
 |[`tf2onnx_conv_results.json`](/Theme2/real-models/tf2onnx_conv_results.json)| This JSON file the TensorFlow testing data.|
 |[`analyze.ipynb`](/Theme2/real-models/analyze.ipynb)| This is the notebook used to analyse the data mentioned above. Results from this contribute to Table 8.|
 |[`convert.py`](/Theme2/real-models/convert.py)| This is the script we used to convert the PyTorch and TensorFlow models.|
+|[`/download`](/Theme2/real-models/download/)| This folder contains the scripts to download the HuggingFace models from the git-bare clones in [HFTorrent dataset](https://zenodo.org/record/7556031).|
 
 ###  Theme 2 Data - Synthetic Models
 |File/Folder|Data Description|
