@@ -5,13 +5,13 @@ The artifacts for this paper are placed into two main folders:
 
 ## Theme 1 - Index
 |Data|Data Description|
-|----|-----------------|
-|[Issue Data](/Theme1/issue-data/)| The GitHub issues that we downloaded and filtered.|
-|[Issue Downloader](/Theme1/issue-downloader/)| Our scripts to download.|
-|[Pilot Study](/Theme1/pilot-study/)| Pilot study data.|
-|[Data Analysis](/Theme1/data_analysis.ipynb)| This jupyter notebook contains our analysis of our data. It generates Tables 4, 5, 6, and 7. Additionally it generates Figures 6a and 6b.|
-|[Failure Analysis Data](/Theme1/FailureAnalysis.xlsx)| Our failure analysis classifications.|
-|[Data Collected for Frameworks and DL compilers](/Theme1/FWs%20and%20DL%20compilers%20data.xlsx)| This excel file contains the data we collect for frameworks and deep learning compilers. (§2.1.2)|
+|[`/issue-downloader`](/Theme1/issue-downloader/)| This folder contains the scripts that we used to download and filter GitHub issues|
+|[`/issue-data`](/Theme1/issue-data/)| This folder contains the GitHub issues that we downloaded and filtered for this analysis. We study a subset of the filtered issues for our failure analysis.|
+|[`/pilot-study`](/Theme1/pilot-study/)| This folder contains the results of the pilot study we conduct. (§4.2.2)|
+|[`onnx_opset_diff.json`](/Theme1/onnx_opset_diff.json)| This json file contains the raw data used to create Figure 6a.|
+|[`FWs and DL compilers data.xlsx`](/Theme1/FWs%20and%20DL%20compilers%20data.xlsx)| This excel file contains the data we collect for frameworks and deep learning compilers. (§2.1.2)|
+|[`FailureAnalysis.xlsx`](/Theme1/FailureAnalysis.xlsx)| This excel file contains our failure analysis data.|
+|[`data_analysis.ipynb`](/Theme1/data_analysis.ipynb)| This jupyter notebook contains our analysis of our data. It generates Tables 4, 5, 6, and 7. Additionally it generates Figures 6a and 6b.|
 
 ## Theme 2 - Index
 
